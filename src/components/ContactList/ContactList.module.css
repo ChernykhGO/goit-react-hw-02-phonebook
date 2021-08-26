@@ -2,3 +2,8 @@
     display: flex;
     align-items: center;
 }
+
+.listContact {
+    width: 960px;
+    margin: 0 auto;
+}
